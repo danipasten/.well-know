@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.walletapp.mobile",
+    "sha256_cert_fingerprints":
+    ["BA:EE:C6:39:D4:2A:2B:E2:89:6F:A7:65:35:FC:BA:7A:6B:47:EB:F2:66:01:09:96:25:E0:35:77:57:1C:BF:B6"]
+  }
+}]
